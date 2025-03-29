@@ -34,7 +34,7 @@ Enfin, cette méthode garantit une distorsion minimale de l'image tout en offran
 
 1. Ouvrir le fichier [TatouageRendu.ipynb](TatouageRendu.ipynb) dans Google Colab.
 2. Dans la cellule suivante, exécutez le code et cliquez sur **choose files** pour sélectionner l'image à tatouer. Nous vous proposons d'utiliser
-   [PetiteImage.png](PetiteImage.png) pour une exécuter le flux complet en moins d'une minute, ou l'image [GrandeImage.png](GrandeImage.png) (~14 minutes sur Google Colab).
+   [PetiteImage.png](PetiteImage.png) pour exécuter le flux complet en moins d'une minute, ou l'image [GrandeImage.png](GrandeImage.png) (~14 minutes sur Google Colab).
    ![alt text](images_readme/image-1.png)
 
 3. Exécutez la cellule suivante afin de vous assurez que l'image puisse être lue correctement.
