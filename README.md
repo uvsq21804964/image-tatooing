@@ -65,7 +65,7 @@ Cette section du code installe les dépendances nécessaires pour:
 - Génération de nombres premiers
 - Génération des clés publique et privée de Paillier
 - Fonction de chiffrement
-- Fonction de déchiffrement optimisée avec le CRT (Théorème Chinois des Restes)
+- Fonction de déchiffrement optimisée avec le Théorème Chinois des Restes Chinois (CRT)
 
 ### Compute mark size
 
